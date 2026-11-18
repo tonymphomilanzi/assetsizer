@@ -31,13 +31,13 @@ function ExportBar({ onOpenPaywall }: ExportBarProps) {
                 {unlockedCount} of {totalCount} free
               </span>
               <span className="text-zinc-600">{" — "}</span>
-              <button
+              {/** <button
                 type="button"
                 onClick={onOpenPaywall}
                 className="text-zinc-400 text-sm underline cursor-pointer hover:text-zinc-200 transition-colors"
               >
                 Get all {totalCount} with Pro
-              </button>
+              </button>**/}
             </>
           )}
         </div>
