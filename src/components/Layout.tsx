@@ -17,13 +17,13 @@ function Layout({ children, onOpenPaywall, padForExportBar = false }: LayoutProp
           <span className="text-lg font-black tracking-tight text-zinc-100">
             {APP_NAME}
           </span>
-          <button
+          {/**<button
             type="button"
             onClick={onOpenPaywall}
             className="text-sm text-zinc-400 hover:text-zinc-100 transition-colors"
           >
             Get Pro
-          </button>
+          </button>**/}
         </div>
       </header>
 
