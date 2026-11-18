@@ -1,4 +1,4 @@
-export const FREE_ASSET_LIMIT = 11;
+export const FREE_ASSET_LIMIT = 33;
 export const MAX_FILE_SIZE_BYTES = 20 * 1024 * 1024; // 20MB
 export const ACCEPTED_MIME_TYPES = [
   "image/png",
