@@ -1,4 +1,4 @@
-
+<img width="960" height="421" alt="1" src="https://github.com/user-attachments/assets/58af9389-be5e-45b2-8452-b2779d932e83" />
 ---
 
 ```markdown
