@@ -201,13 +201,13 @@ function HeroSection({ onScrollToTool, onOpenPaywall }: HeroSectionProps) {
                 Start resizing
                 <ArrowDownIcon className="h-4 w-4 transition-transform group-hover:translate-y-0.5" />
               </button>
-              <button
+              {/** <button
                 type="button"
                 onClick={onOpenPaywall}
                 className="inline-flex items-center gap-2 border border-zinc-700 text-zinc-300 font-medium text-sm px-6 py-3 rounded-lg hover:border-zinc-500 hover:text-zinc-100 transition-colors"
               >
                 Get Pro — $5/mo
-              </button>
+              </button>**/}
             </div>
 
             {/* Stats row */}
